@@ -2,4 +2,4 @@
 A simple ray tracing program
 
 
-run main.py
+<b>run main.py</b>
